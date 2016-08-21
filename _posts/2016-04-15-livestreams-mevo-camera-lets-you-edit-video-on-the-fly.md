@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T04:34:27.465Z'
+datePublished: '2016-08-21T04:43:00.306Z'
 sourcePath: _posts/2016-04-15-livestreams-mevo-camera-lets-you-edit-video-on-the-fly.md
 inFeed: true
 isBasedOnUrl: 'http://www.engadget.com/2016/04/15/ivestream-mevo-hands-on/'
@@ -17,7 +17,8 @@ keywords:
   - button
 related: []
 author: []
-dateModified: '2016-08-21T04:34:27.093Z'
+via: {}
+dateModified: '2016-08-21T04:42:59.924Z'
 title: Livestream's Mevo camera lets you edit video on the fly
 app_links:
   - url: >-
@@ -48,10 +49,9 @@ description: >-
   out for a $399 external camera.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Livestream's Mevo camera lets you edit video on the fly</h1><p>My first thought upon hearing about the camera, which was officially introduced at Facebook's F8 conference earlier this week, was: Who exactly is Livestream targeting here? Facebook Live video has boomed in a big way with people shooting on their phones, and lots of those users aren't going to shell out for a $399 external camera.</p><img src="http://o.aolcdn.com/hss/storage/midas/f1e61e2a19154201e28ca3c18cec1b15/203690189/DSCF3663.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4466be094e86bad9c0e2fe4c5a74c3d32ef5c016.jpg" /><h1>Livestream's Mevo camera lets you edit video on the fly</h1><p>My first thought upon hearing about the camera, which was officially introduced at Facebook's F8 conference earlier this week, was: Who exactly is Livestream targeting here? Facebook Live video has boomed in a big way with people shooting on their phones, and lots of those users aren't going to shell out for a $399 external camera.</p></article>
