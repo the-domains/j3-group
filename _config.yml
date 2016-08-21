@@ -1,3 +1,4 @@
+layout_spectrum: 0.08236517338082194
 typography_spectrum: 0.9274780536070466
 color:
   brandStrength: 0.3964680389035493
@@ -10,12 +11,4 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-layout_spectrum: 0.08236517338082194
-author:
-  name: Jeff Waechter
-  email: jeff@j3group.co
-  url: www.j3group.co
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/718c94c3-97b5-4d8b-ae0e-adb2bfab4310.png
 name: J3 Group
-title: Am I doing it right?
