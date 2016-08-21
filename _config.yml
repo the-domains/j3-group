@@ -1,4 +1,3 @@
-layout_spectrum: 0.08236517338082194
 typography_spectrum: 0.9274780536070466
 color:
   brandStrength: 0.3964680389035493
@@ -6,9 +5,16 @@ color:
   saturation: 0.3774454884696752
   rhythmicContrast: 0.356100627919659
   brandColors:
-    - '#D7EAF9'
-    - '#110505'
-    - '#7FA6DF'
-    - '#587190'
-    - '#4A3321'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.08236517338082194
+author:
+  name: Jeff Waechter
+  email: jeff@j3group.co
+  url: www.j3group.co
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/718c94c3-97b5-4d8b-ae0e-adb2bfab4310.png
 name: J3 Group
